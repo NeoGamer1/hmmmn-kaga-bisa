@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				50
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Eminem_Idle"
+		},
+		{
+			"offsets": [
+				6,
+				48
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Eminem_Left"
+		},
+		{
+			"offsets": [
+				-20,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Eminem_Right"
+		},
+		{
+			"offsets": [
+				0,
+				36
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Eminem_Down"
+		},
+		{
+			"offsets": [
+				-6,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Eminem_Up"
+		},
+		{
+			"offsets": [
+				-10,
+				50
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "yo",
+			"loop": true,
+			"name": "Eminem_Cool"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/DADDY_DEAREST",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		155,
+		95,
+		40
+	],
+	"camera_position": [
+		40,
+		-30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
